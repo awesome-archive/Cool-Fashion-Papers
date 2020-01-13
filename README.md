@@ -24,13 +24,18 @@ __TOC__
 ### Synthesis
 | Model | Title | Publication | Paper | Link |
 | ----- | ----- | ----------- | ----- | ---- |
-| Fashion++ | Fashion++: Minimal Edits for Outfit Improvement | arXiv | [[1904.09261]](https://arxiv.org/abs/1904.09261) | [[project]](http://vision.cs.utexas.edu/projects/FashionPlus/) |
+|  | DOWN TO THE LAST DETAIL: VIRTUAL TRY-ON WITH DETAIL CARVING | arXiv | [[1912.06324]](https://arxiv.org/abs/1912.06324) |  |
+| ClothFlow | ClothFlow: A Flow-Based Model for Clothed Person Generation | ICCV 2019 | [[paper]](http://openaccess.thecvf.com/content_ICCV_2019/papers/Han_ClothFlow_A_Flow-Based_Model_for_Clothed_Person_Generation_ICCV_2019_paper.pdf) |  |
+| FW-GAN | FW-GAN: Flow-navigated Warping GAN for Video Virtual Try-on | ICCV 2019 | [[paper]](http://openaccess.thecvf.com/content_ICCV_2019/papers/Dong_FW-GAN_Flow-Navigated_Warping_GAN_for_Video_Virtual_Try-On_ICCV_2019_paper.pdf) |  |
+|  | Virtually Trying on New Clothing with Arbitrary Poses | MM 2019 | [[paper]](https://dl.acm.org/citation.cfm?id=3350946) | [[project]](https://fashiontryon.wixsite.com/fashiontryon) |
+|  | Generating High-Resolution Fashion Model Images Wearing Custom Outfits | ICCVW 2019 | [[1908.08847]](https://arxiv.org/abs/1908.08847) |  |
+| Fashion++ | Fashion++: Minimal Edits for Outfit Improvement | ICCV 2019 | [[1904.09261]](https://arxiv.org/abs/1904.09261) | [[project]](http://vision.cs.utexas.edu/projects/FashionPlus/) |
 | MG-VTON | Towards Multi-pose Guided Virtual Try-on Network | arXiv | [[1902.11026]](https://arxiv.org/abs/1902.11026) |  |
-| FiNet | Compatible and Diverse Fashion Image Inpainting | arXiv | [[1902.01096]](https://arxiv.org/abs/1902.01096) |  |
+| FiNet | Compatible and Diverse Fashion Image Inpainting | ICCV 2019 | [[1902.01096]](https://arxiv.org/abs/1902.01096) |  |
 | M2E-Try On Net | M2E-Try On Net: Fashion from Model to Everyone | arXiv | [[1811.08599]](https://arxiv.org/abs/1811.08599) |  |
 | FashionGAN | FashionGAN: Display your fashion design using Conditional Generative Adversarial Nets | CG Forum 2018 | [[paper]](https://onlinelibrary.wiley.com/doi/abs/10.1111/cgf.13552) |  |
 | PIVTONS | PIVTONS: Pose Invariant Virtual Try-On Shoe with Conditional Image Completion | ACCV 2018 | [[paper]](https://winstonhsu.info/wp-content/uploads/2018/09/chou18PIVTONS.pdf) | [[project]](https://winstonhsu.info/pubs/pivtons-virtual-try-on-shoe/) |
-| SwapNet | SwapNet: Image Based Garment Transfer | ECCV 2018 | [[paper]](http://openaccess.thecvf.com/content_ECCV_2018/papers/Amit_Raj_SwapNet_Garment_Transfer_ECCV_2018_paper.pdf) |  |
+| SwapNet | SwapNet: Image Based Garment Transfer | ECCV 2018 | [[paper]](http://openaccess.thecvf.com/content_ECCV_2018/papers/Amit_Raj_SwapNet_Garment_Transfer_ECCV_2018_paper.pdf) | [[andrewjong / SwapNet]](https://github.com/andrewjong/SwapNet) |
 | FiLMedGAN | Language Guided Fashion Image Manipulation with Feature-wise Transformations | ECCVW 2018 | [[1808.04000]](https://arxiv.org/abs/1808.04000) |  |
 | CP-VITON | Toward Characteristic-Preserving Image-based Virtual Try-On Network | ECCV 2018 | [[1807.07688]](https://arxiv.org/abs/1807.07688) | [[sergeywong / cp-vton]](https://github.com/sergeywong/cp-vton) |
 |  | Disentangling Multiple Conditional Inputs in GANs | ECCVW 2018 | [[1806.07819]](https://arxiv.org/abs/1806.07819) | [[zalandoresearch / disentangling_conditional_gans]](https://github.com/zalandoresearch/disentangling_conditional_gans) |
@@ -53,6 +58,7 @@ __TOC__
 ### Recommendation
 | Model | Title | Publication | Paper | Link |
 | ----- | ----- | ----------- | ----- | ---- |
+| POG | POG: Personalized Outfit Generation for Fashion Recommendation at Alibaba iFashion | KDD 2019 | [[1905.01866]](https://arxiv.org/abs/1905.01866) |  |
 |  | Aesthetic-based Clothing Recommendation | WWW 2018 | [[1809.05822]](https://arxiv.org/abs/1809.05822) |  |
 | CRAFT | CRAFT: Complementary Recommendations Using Adversarial Feature Transformer | ECCVW 2018 | [[1804.10871]](https://arxiv.org/abs/1804.10871) |  |
 |  | Learning Type-Aware Embeddings for Fashion Compatibility | ECCV 2018 | [[1803.09196]](https://arxiv.org/abs/1803.09196) |  |
@@ -73,14 +79,18 @@ __TOC__
 ## Related Events
 1. KDD workshop on fashion [[2019]](https://kddfashion2019.mybluemix.net/) [[2018]](https://kddfashion2018.mybluemix.net/) [[2017]](https://kddfashion2017.mybluemix.net/) [[2016]](http://kddfashion2016.mybluemix.net/)
 2. ECCV workshop on Computer Vision for Fashion, Art and Design [[2018]](https://sites.google.com/view/eccvfashion/)
-3. ICCV workshop on Computer Vision For Fashion [[2017]](https://sites.google.com/zalando.de/cvf-iccv2017/home?authuser=0)
+3. ICCV workshop on Computer Vision For Fashion [[2019]](https://sites.google.com/view/cvcreative/home) [[2017]](https://sites.google.com/zalando.de/cvf-iccv2017/home?authuser=0)
 4. NeurlPS workshop on Machine Learning for Creativity and Design [[2018]](https://nips2018creativity.github.io/) [[2017]](https://nips2017creativity.github.io/)
-5. CVPR FGVC workshop challenge - iMaterialist Fashion Track [[2019]](https://sites.google.com/view/fgvc6/competitions/imat-fashion-2019)
-6. CVPR FGVC workshop challenge - iDesigner [[2019]](https://sites.google.com/view/fgvc6/competitions/idesigner-2019)
-7. FashionGen Challenge [[ECCVW 2018]](https://fashion-gen.com/)
-8. JD AI Fashion Challenge [[ChinaMM 2018]](https://fashion-challenge.github.io/)
-9. Alibaba FashionAI Global Challenge [[Tianchi]](http://fashionai.alibaba.com/)
-10. Artificial Intelligence on Fashion and Textile Conference [[AIFT 2018]](https://www.polyu.edu.hk/itc/aift2018/)
+5. SIGIR Workshop On eCommerce [[2019]](https://sigir-ecom.github.io/index.html) [[2018]](https://sigir-ecom.github.io/ecom2018/index.html) [[2017]](http://sigir-ecom.weebly.com/) 
+6. CVPR FGVC workshop challenge - iMaterialist Fashion Track [[2019]](https://sites.google.com/view/fgvc6/competitions/imat-fashion-2019)
+7. CVPR FGVC workshop challenge - iDesigner [[2019]](https://sites.google.com/view/fgvc6/competitions/idesigner-2019)
+8. CVPR Deep Learning for Content Creation Tutorial [[2019]](https://nvlabs.github.io/dl-for-content-creation/)
+9. FashionGen Challenge [[ICCVW 2019, ECCVW 2018]](https://fashion-gen.com/)
+10. JD AI Fashion Challenge [[ChinaMM 2018]](https://fashion-challenge.github.io/)
+11. Alibaba FashionAI Global Challenge [[Tianchi]](http://fashionai.alibaba.com/)
+12. Artificial Intelligence on Fashion and Textile Conference [[AIFT 2018]](https://www.polyu.edu.hk/itc/aift2018/)
+13. Fashion IQ Challenge [[ICCVW 2019]](https://sites.google.com/view/lingir/fashion-iq)
+14. DeepFashion2 Challenge [[ICCVW 2019]](https://sites.google.com/view/cvcreative/deepfashion2)
 
 
 
@@ -93,6 +103,7 @@ __TOC__
 5. FashionAI [[Tianchi]](http://fashionai.alibaba.com/datasets/?spm=a2c22.11190735.991137.8.501b6d83ilPJsX)
 6. TaobaoClothMatch [[Tianchi]](TaobaoClothMatch)
 7. Fashion-MNIST [[zalandoresearch/fashion-mnist]](https://github.com/zalandoresearch/fashion-mnist)
+8. Fashion IQ [[website]](https://www.spacewu.com/posts/fashion-iq/)
 
 
 
@@ -114,6 +125,7 @@ __TOC__
 | <img src="img/markableai.png" height="80px"> | [Markable.AI](https://markable.ai/)                          | 2016  | Recognition, Searching                      | [[2018.7 journal sentinel]](https://www.jsonline.com/story/money/business/2018/07/26/shazam-fashion-markable-app-shops-comparable-outfits/816175002/) |
 | <img src="img/tozi.png" height="50px">       | [衣呼 YIHU (TOZI)](https://www.emtailor.com/solutions)       | 2017  | 3D Modeling                                 | [[2018.9 funding]](https://www.lieyunwang.com/archives/447739) |
 | <img src="img/macty.png" height="20px">      | [macty.eu](https://www.macty.eu/)                            | 2017  | Recognition, Searching, Recommendation, NLP | [[2018.12 START IT]](https://startitkbc.prezly.com/complete-the-look-tool-macty-leverages-ai-to-revolutionise-the-fashion-industry) |
+| <img src="img/glitch.gif" height="30px">     | [glitch-ai](https://glitch-ai.com/)                          | 2019  | AI Design                                   | [2019.6 news](https://www.vice.com/en_us/article/vb9pgm/this-clothing-line-was-designed-by-ai) |
 
 
 
